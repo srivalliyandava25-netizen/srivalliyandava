@@ -21,7 +21,7 @@
 
 ---
 
-<h2 align="center">👩‍💻 About Me</h2>
+<h2 align="left">👩‍💻 About Me</h2>
 
 <img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
@@ -37,7 +37,7 @@
 
 ---
 
-<h2 align="center">⚡ Tech Stack & Tools</h2>
+<h2 align="left">⚡ Tech Stack & Tools</h2>
 
 <div align="center">
 
@@ -47,7 +47,7 @@
 
 ---
 
-<h2 align="center">🚀 Featured Projects</h2>
+<h2 align="left">🚀 Featured Projects</h2>
 
 <table>
 <tr>
@@ -97,7 +97,7 @@ A collaborative project management platform designed to help users organize proj
 
 ---
 
-<h2 align="center">🤝 Let's Connect</h2>
+<h2 align="left">🤝 Let's Connect</h2>
 
 <div align="center">
 
